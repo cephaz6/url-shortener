@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Create Next App",
-  description: "This is my next URL_Shortner page",
+  description: "This is my next URL_Shortner",
 };
 
 export default function RootLayout({
